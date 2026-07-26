@@ -1,5 +1,7 @@
 # Dataset (download from Kaggle)
 dataset/
+data/
+*.zip
 
 # Generated output
 output/
